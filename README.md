@@ -1,7 +1,7 @@
 ## 1.)User SignUp POST API
 
 http://localhost:8082/api/user/register
-client side
+In client side
 use postman form to pass all these parameter 
 body:{
   name:"Test",
@@ -14,7 +14,7 @@ body:{
 ## 2.)User Login POST API
 
 http://localhost:8082/api/user/login
-client side
+In client side
 use postman form to pass all these parameter 
 body:{
   mail:"test@m.com",
@@ -23,7 +23,7 @@ body:{
 
 ## 3.)User Profile GET API
 
-client side
+In client side
 http://localhost:8082/api/user/profile
 
 use postman headers to pass token parameter that you have received in response on sucessfully login
