@@ -2,7 +2,7 @@
 
 http://localhost:8082/api/user/register
 client side
-use postman form data to all these parameter 
+use postman form to pass all these parameter 
 body:{
   name:"Test",
   mail:"test@m.com",
@@ -15,7 +15,7 @@ body:{
 
 http://localhost:8082/api/user/login
 client side
-use postman form  to all these parameter 
+use postman form to pass all these parameter 
 body:{
   mail:"test@m.com",
   pasword:"123456"(pasword should be atleast 6 length),
