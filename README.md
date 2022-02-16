@@ -1,7 +1,8 @@
 ## 1.)User SignUp POST API
+
 http://localhost:8082/api/user/register
 client side
-#use postman form data to all these parameter 
+use postman form data to all these parameter 
 body:{
   name:"Test",
   mail:"test@m.com",
@@ -11,6 +12,7 @@ body:{
 }
 
 ## 2.)User Login POST API
+
 http://localhost:8082/api/user/login
 client side
 use postman form  to all these parameter 
@@ -20,6 +22,7 @@ body:{
 }
 
 ## 3.)User Profile GET API
+
 client side
 http://localhost:8082/api/user/profile
 
